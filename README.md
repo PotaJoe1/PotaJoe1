@@ -1,5 +1,4 @@
-Hi, I'm Joe, also known as PotaJoe!
-I'm a 17-year-old autistic guy from the UK. I mostly program in Python and Scratch, but I also know some HTML and CSS.
+www.potajoe.page
 
 <!---
 PotaJoe1/PotaJoe1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
